@@ -12,3 +12,8 @@
 3. September 23, 2016, 11:00 PM
 	- Correct the three views in View folder in application folder
 	- Correct the three controllers in applicaiton folder
+
+4. September 24, 2016, 3:00 PM
+	- Updated Models to use a MVC style of image loading.
+        - Images are now linked to the database.
+        - Added Images model
