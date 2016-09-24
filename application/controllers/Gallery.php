@@ -18,12 +18,9 @@ class Gallery extends Application
 	 * @see https://codeigniter.com/user_guide/general/urls.html
 	 */
 	public function index()
-	{
-            $this->load->view('gallery');
-            /*
-		$this->data['pagebody'] = 'welcome';
-		$this->render(); 
-             */
+	{                  
+		$this->data['pagebody'] = 'gallery';
+		$this->render();            
 	}   
 
 }
