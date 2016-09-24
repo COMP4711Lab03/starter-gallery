@@ -9,3 +9,6 @@
     - Uploaded CodeIgnitor framework
     - Switched page loading from static loading to trivial loading
 
+3. September 23, 2016, 11:00 PM
+	- Correct the three views in View folder in application folder
+	- Correct the three controllers in applicaiton folder
